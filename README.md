@@ -33,7 +33,7 @@
 
 ## Analysis
 
-JupyterLab was used to preform the analysis. The file is called Weather_Data.ipynb and the code should be run in the order it appears.
+JupyterLab was used to preform the analysis. The file is called Weather_Data.ipynb and the code should be run in the order it appears. The file explores and cleans the data into the file clean_seattle_burlington_weather.csv, preforms exploratory data analysis, then preforms T and Z tests to compare the mean precipitation and the proportion of days with precipitation.
 
 ---
 
