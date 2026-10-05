@@ -26,7 +26,7 @@
 
 ## Data
 
-- **Source:** https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
+- **Source:** National Oceanic and Atmospheric Administration https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 - **Description:** Data from 01-01-2018 to 12-31-2022. Data from Seattle, WA contains 1658 rows and 10 columns including STATION, NAME, DATE, DAPR, MDPR, PRCP, SNOW, SNWD, WESD, and WESF. Data from Burlington, VT contains 1826 rows and 6 columns including STATION, NAME, DATE, PRCP, SNOW, and SNWD. We are interested in the columns DATE and PRCP.   
 
 ---
