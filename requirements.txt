@@ -7,14 +7,20 @@ matplotlib
 seaborn
 
 
-# Machine Learning
-scikit-learn
+# Statistical Tests
+scipy
 statsmodels
 
+# Dates
+calendar
 
 # Jupyter & Development
 jupyter
 notebook
 ipython
+
+
+
+
 
 
