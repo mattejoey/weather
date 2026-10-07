@@ -6,7 +6,6 @@ pandas
 matplotlib
 seaborn
 
-
 # Statistical Tests
 scipy
 statsmodels
