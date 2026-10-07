@@ -49,7 +49,7 @@ Z tests for difference in the proportion of days with precipitation
 - A significant difference in the proportion of days with precipitation by month was found in Jan, Feb, Apr, Jul, Oct, Nov, and Dec. The proportion of days with precipitation is greater in Seattle in Jan, Feb, Apr, Oct, Nov, and Dec. Burlington has no months with a greater proportion of days with precipitation.
 - A significant difference in the proportion of days with precipitation by season was found in all seasons. The proportion of days with precipitation is greater in Seattle in Winter, Spring, and Fall. It is greater in Burlington in Summer.
 
-Full results can be found in results.pdf in the reports folder.
+Full results can be found in Results.pdf in the reports folder.
 ---
 
 ## Authors
